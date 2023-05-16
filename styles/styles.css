@@ -1,5 +1,15 @@
 body {
     margin-left: 8%;
     margin-right: 8%;
-    margin-top: 8%
+    margin-top: 8%;
+
+    background: rgb(196, 193, 62);
+
+    font-weight: bold
 }
+
+/* .test {
+    background: green
+    ctrl / = comment
+} */
+/* inside <p class="test"> for highlight specific paragraphs */
